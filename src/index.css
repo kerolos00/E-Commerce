@@ -1,0 +1,56 @@
+@import url("https://fonts.googleapis.com/css2?family=Encode+Sans+Expanded&family=Encode+Sans:wght@300;400;500&display=swap");
+
+:root {
+  --main-color : #0aad0a;
+  --light-color: #faf3f2;
+  --shadow     : rgba(145, 158, 171, 0.3) 0px 2px 4px -1px,
+    rgba(145, 158, 171, 0.15) 0px 4px 5px 0px rgba(145, 158, 171, 0.12) 0px 2px 4px 0px;
+  --font-family: "Encode Sans Expanded", sans-serif;
+}
+
+body {
+  font-family: var(--font-family);
+}
+
+.active {
+  color      : var(--main-color) !important;
+  font-weight: bolder;
+}
+
+.active-li:hover {
+  cursor: pointer;
+  color : var(--main-color);
+}
+
+.imgItem1 img {
+  height         : 100px;
+  overflow       : hidden;
+  object-fit     : cover;
+  object-position: top;
+}
+
+.imgItem2 img {
+  height         : 100px;
+  overflow       : hidden;
+  object-fit     : cover;
+  object-position: bottom;
+}
+
+.imgItem2 h6 {
+  font-size  : 14px;
+  font-weight: bolder;
+}
+
+.loading {
+  z-index        : 675757;
+  display        : flex;
+  justify-content: center;
+  align-items    : center;
+}
+
+.pointer{
+  cursor: pointer;
+}
+.dash{
+  border-bottom: 2px dashed #a1a1a1;
+}
