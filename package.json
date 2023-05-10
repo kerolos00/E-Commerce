@@ -1,5 +1,5 @@
 {
-  "homepage": "https://kerolos00.github.io/E-Commerce",
+  "homepage": "https://kerolos00.github.io/E-commerce",
   "name": "app-store",
   "version": "0.1.0",
   "private": true,
@@ -55,6 +55,8 @@
     ]
   },
   "devDependencies": {
+    "@types/jquery": "^3.5.16",
     "gh-pages": "^5.0.0"
   }
 }
+ 
