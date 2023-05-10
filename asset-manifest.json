@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/E-Commerce/static/css/main.5f5db131.css",
-    "main.js": "/E-Commerce/static/js/main.adeacf0b.js",
-    "static/js/787.8c36a2d7.chunk.js": "/E-Commerce/static/js/787.8c36a2d7.chunk.js",
-    "static/media/slider-2.jpeg": "/E-Commerce/static/media/slider-2.92200ddb54f84e0e8c71.jpeg",
-    "static/media/fa-solid-900.ttf": "/E-Commerce/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
-    "static/media/slider-image-1.jpeg": "/E-Commerce/static/media/slider-image-1.3c3940ee0f1c3b17ff9a.jpeg",
-    "static/media/fa-brands-400.ttf": "/E-Commerce/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
-    "static/media/slider-image-3.jpeg": "/E-Commerce/static/media/slider-image-3.7e5c9f7a513f6db6dd5e.jpeg",
-    "static/media/slider-image-2.jpeg": "/E-Commerce/static/media/slider-image-2.e510b0de8a4d96a1d5ad.jpeg",
-    "static/media/grocery-banner-2.jpeg": "/E-Commerce/static/media/grocery-banner-2.7a4a78a90acc3d5847cb.jpeg",
-    "static/media/fa-solid-900.woff2": "/E-Commerce/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
-    "static/media/fa-brands-400.woff2": "/E-Commerce/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
-    "static/media/fa-regular-400.ttf": "/E-Commerce/static/media/fa-regular-400.d87474231f4192884802.ttf",
-    "static/media/fa-regular-400.woff2": "/E-Commerce/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
-    "static/media/freshcart-logo.svg": "/E-Commerce/static/media/freshcart-logo.53f7a424c3aedc30a0fb46dc2278137c.svg",
-    "static/media/fa-v4compatibility.ttf": "/E-Commerce/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
-    "static/media/fa-v4compatibility.woff2": "/E-Commerce/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
-    "index.html": "/E-Commerce/index.html",
-    "main.5f5db131.css.map": "/E-Commerce/static/css/main.5f5db131.css.map",
-    "main.adeacf0b.js.map": "/E-Commerce/static/js/main.adeacf0b.js.map",
-    "787.8c36a2d7.chunk.js.map": "/E-Commerce/static/js/787.8c36a2d7.chunk.js.map"
+    "main.css": "/E-commerce/static/css/main.f587e2ea.css",
+    "main.js": "/E-commerce/static/js/main.95a19508.js",
+    "static/js/787.8c36a2d7.chunk.js": "/E-commerce/static/js/787.8c36a2d7.chunk.js",
+    "static/media/slider-2.jpeg": "/E-commerce/static/media/slider-2.92200ddb54f84e0e8c71.jpeg",
+    "static/media/fa-solid-900.ttf": "/E-commerce/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/slider-image-1.jpeg": "/E-commerce/static/media/slider-image-1.3c3940ee0f1c3b17ff9a.jpeg",
+    "static/media/fa-brands-400.ttf": "/E-commerce/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/slider-image-3.jpeg": "/E-commerce/static/media/slider-image-3.7e5c9f7a513f6db6dd5e.jpeg",
+    "static/media/slider-image-2.jpeg": "/E-commerce/static/media/slider-image-2.e510b0de8a4d96a1d5ad.jpeg",
+    "static/media/grocery-banner-2.jpeg": "/E-commerce/static/media/grocery-banner-2.7a4a78a90acc3d5847cb.jpeg",
+    "static/media/fa-solid-900.woff2": "/E-commerce/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/fa-brands-400.woff2": "/E-commerce/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/fa-regular-400.ttf": "/E-commerce/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/fa-regular-400.woff2": "/E-commerce/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/freshcart-logo.svg": "/E-commerce/static/media/freshcart-logo.53f7a424c3aedc30a0fb46dc2278137c.svg",
+    "static/media/fa-v4compatibility.ttf": "/E-commerce/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "/E-commerce/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "index.html": "/E-commerce/index.html",
+    "main.f587e2ea.css.map": "/E-commerce/static/css/main.f587e2ea.css.map",
+    "main.95a19508.js.map": "/E-commerce/static/js/main.95a19508.js.map",
+    "787.8c36a2d7.chunk.js.map": "/E-commerce/static/js/787.8c36a2d7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5f5db131.css",
-    "static/js/main.adeacf0b.js"
+    "static/css/main.f587e2ea.css",
+    "static/js/main.95a19508.js"
   ]
 }
